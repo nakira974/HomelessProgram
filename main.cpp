@@ -21,7 +21,7 @@ int MainTask() {
     try {
         lm_bool_t isOk;
         lm_pid_t currentPid;
-        const char *processName;
+       const char *processName;
         do {
 
             auto *threadsInfo = new ThreadsInfo();
