@@ -1,6 +1,0 @@
-# ninja log v5
-14	740	6631767391393320	CMakeFiles/HomelessProgram.dir/ThirdParty/libmem/libmem/libmem.c.obj	3ddd8de6e9d2f40d
-5	1641	6631767400389532	CMakeFiles/HomelessProgram.dir/Sources/ThreadsInfo.cpp.obj	3c237fed17d077dc
-2411	2673	6631809032845616	../bin/HomelessProgram.exe	99864db62633feb
-1	2397	6631809030382182	CMakeFiles/HomelessProgram.dir/main.cpp.obj	da869a1914938e20
-1	339	6631814246430876	build.ninja	167b850cbfbb5d68

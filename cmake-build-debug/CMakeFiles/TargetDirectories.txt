@@ -1,6 +1,0 @@
-C:/Users/maxim/Documents/GitProjects/CPP/HomelessProgram/cmake-build-debug/CMakeFiles/HomelessProgram.dir
-C:/Users/maxim/Documents/GitProjects/CPP/HomelessProgram/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/maxim/Documents/GitProjects/CPP/HomelessProgram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/maxim/Documents/GitProjects/CPP/HomelessProgram/cmake-build-debug/ThirdParty/libmem/CMakeFiles/rebuild_cache.dir
-C:/Users/maxim/Documents/GitProjects/CPP/HomelessProgram/cmake-build-debug/ThirdParty/libmem/CMakeFiles/libmem.dir
-C:/Users/maxim/Documents/GitProjects/CPP/HomelessProgram/cmake-build-debug/ThirdParty/libmem/CMakeFiles/edit_cache.dir
