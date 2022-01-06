@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/maxim/CLionProjects/HomelessProgram/ThirdParty/libmem
+# Install script for directory: C:/Users/maxim/Documents/GitProjects/CPP/HomelessProgram/ThirdParty/libmem
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
