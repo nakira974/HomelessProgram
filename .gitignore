@@ -592,3 +592,4 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/ninja,c++,c,clion,visualstudio,cmake
+/cmake-build-debug/
