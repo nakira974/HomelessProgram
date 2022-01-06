@@ -17,7 +17,7 @@
 
 [[maybe_unused]] void LibMemTest();
 
-int  MainTask(){
+int MainTask() {
     try {
         lm_bool_t isOk;
         lm_pid_t currentPid;
@@ -25,27 +25,25 @@ int  MainTask(){
         do {
 
             auto *threadsInfo = new ThreadsInfo();
-            bool processSuccess = threadsInfo->ThreadsCount > 0 ;
+            bool processSuccess = threadsInfo->ThreadsCount > 0;
 
-            if(processSuccess){
+            if (processSuccess) {
                 currentPid = threadsInfo->SystemThreads[2000]->Process->pid;
                 processName = threadsInfo->SystemThreads[2000]->ProcessName;
                 isOk = LM_CheckProcess(currentPid);
                 delete threadsInfo;
-            }
-            else{
+            } else {
                 delete threadsInfo;
                 break;
             }
 
         } while (!isOk);
 
-        if(isOk){
-            std::cout << "Process ended correctly, for process with pid number : " << currentPid << " name :" << processName
+        if (isOk) {
+            std::cout << "Process ended correctly, for process with pid number : " << currentPid << " name :"
+                      << processName
                       << "has been checked.\n" << std::endl;
-        }
-
-        else{
+        } else {
             std::cout << "Process failed, for process with pid number : " << currentPid << " name :" << processName
                       << "has not been checked.\n" << std::endl;
         }
