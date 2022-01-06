@@ -18,9 +18,9 @@ file(GLOB_RECURSE SOURCES_FILES
         )
 
 
-SET(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
+SET(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/Bin)
 
-include_directories(${PROJECT_SOURCE_DIR}/lib/)
-LINK_DIRECTORIES(${CMAKE_SOURCE_DIR}/lib/)
+include_directories(${PROJECT_SOURCE_DIR}/Lib/)
+LINK_DIRECTORIES(${CMAKE_SOURCE_DIR}/Lib/)
 
 add_executable(HomelessProgram main.cpp ${SOURCES_FILES} ${HEADERS_FILES} ${PROJECT_SOURCE_DIR}/ThirdParty/libmem/libmem/libmem.c)
