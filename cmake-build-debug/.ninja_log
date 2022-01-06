@@ -1,0 +1,26 @@
+# ninja log v5
+14	740	6631767391393320	CMakeFiles/HomelessProgram.dir/ThirdParty/libmem/libmem/libmem.c.obj	3ddd8de6e9d2f40d
+5	1641	6631767400389532	CMakeFiles/HomelessProgram.dir/Sources/ThreadsInfo.cpp.obj	3c237fed17d077dc
+1	1535	6627705327207699	CMakeFiles/HomelessProgram.dir/main.cpp.obj	da869a1914938e20
+2	315	6631778903150180	build.ninja	167b850cbfbb5d68
+1	339	6631778903150180	build.ninja	167b850cbfbb5d68
+1	2342	6631779017913263	CMakeFiles/HomelessProgram.dir/main.cpp.obj	da869a1914938e20
+2352	2857	6631779022976568	../bin/HomelessProgram.exe	99864db62633feb
+0	2487	6631780005017762	CMakeFiles/HomelessProgram.dir/main.cpp.obj	da869a1914938e20
+2489	2756	6631780007421343	../bin/HomelessProgram.exe	99864db62633feb
+1	3102	6631792036509206	CMakeFiles/HomelessProgram.dir/main.cpp.obj	da869a1914938e20
+3110	3447	6631792039461315	../bin/HomelessProgram.exe	99864db62633feb
+0	2416	6631794362889617	CMakeFiles/HomelessProgram.dir/main.cpp.obj	da869a1914938e20
+2428	2698	6631794365392924	../bin/HomelessProgram.exe	99864db62633feb
+1	2515	6631795491865830	CMakeFiles/HomelessProgram.dir/main.cpp.obj	da869a1914938e20
+2527	2775	6631795494179652	../bin/HomelessProgram.exe	99864db62633feb
+1	2573	6631796323007468	CMakeFiles/HomelessProgram.dir/main.cpp.obj	da869a1914938e20
+2588	2935	6631796326298687	../bin/HomelessProgram.exe	99864db62633feb
+1	2684	6631802920321971	CMakeFiles/HomelessProgram.dir/main.cpp.obj	da869a1914938e20
+2698	2974	6631802922875164	../bin/HomelessProgram.exe	99864db62633feb
+0	2426	6631804283340858	CMakeFiles/HomelessProgram.dir/main.cpp.obj	da869a1914938e20
+2439	2701	6631804285814258	../bin/HomelessProgram.exe	99864db62633feb
+0	2404	6631808220397924	CMakeFiles/HomelessProgram.dir/main.cpp.obj	da869a1914938e20
+2410	2683	6631808222871312	../bin/HomelessProgram.exe	99864db62633feb
+1	2397	6631809030382182	CMakeFiles/HomelessProgram.dir/main.cpp.obj	da869a1914938e20
+2411	2673	6631809032845616	../bin/HomelessProgram.exe	99864db62633feb
